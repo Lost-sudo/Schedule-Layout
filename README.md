@@ -19,7 +19,8 @@ The layout includes:
 - A weekly schedule table with time slots and subjects.
 
 ### Screenshot
-_(Attach your picture here)_
+![image](https://github.com/user-attachments/assets/3a300245-dee1-476c-b653-ee99f880b6e9)
+
 
 ## How to Run
 1. Open `index.html` in any modern web browser.
